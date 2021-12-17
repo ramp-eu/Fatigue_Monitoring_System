@@ -1,0 +1,4 @@
+[submodule "bf-fams"]
+	path = bf-fams
+	url = git@github.com:isteps-sps-lab/bf-fams.git
+	branch = main
